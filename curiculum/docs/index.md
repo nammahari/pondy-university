@@ -17,4 +17,4 @@ For [Github](https://github.com/nammahari/cit-hackers.git)
 - [Tamilnadu.tech](https://tamilnadu.tech) / [Podu.pics](https://podu.pics)
 
 Best, 
-Hari
+Modi ji
