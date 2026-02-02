@@ -1,5 +1,5 @@
-# M.Tech DSAI Courses
-## CURRICULUM
+# M.Tech DSAI Curriculum
+## COURSES
 ### Semester-I
 - CSDS701 - Advanced Data Structures and Algorithms
 - CSDS702 - Mathematical Foundations for Data Science
