@@ -1,5 +1,5 @@
 # Welcome to Git Workshop
-## Make your first contribution!
+### Make your first contribution!
 
 For [Github](https://github.com/nammahari/cit-hackers.git)
 
