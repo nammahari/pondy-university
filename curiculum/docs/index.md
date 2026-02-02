@@ -4,7 +4,7 @@
 For [Github](https://github.com/nammahari/cit-hackers.git)
 
 hi my naem is parth raj and this is my contribution
--first point
+- first point
 
 ## For Contact
 
